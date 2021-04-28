@@ -1,0 +1,23 @@
+#retorno {
+    text-align: center;
+
+}
+
+.primeira {
+    display: inline-block;
+    border: 2px black;
+    margin: 10px;
+
+}
+
+.segunda {
+    display: inline-block;
+    border: 2px black;
+    margin: 10px;
+
+}
+
+h1 {
+    text-align: center;
+
+}
